@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am currently pursuing my master's degree in data analytics. Within this scope, I am conducting research in the field of machine learning.
+
 <!--
 **burakmcapraz/burakmcapraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
